@@ -1,5 +1,6 @@
-(function($) {
 
+(function($) {
+  //test
     function resizeSidebar() {
         $('.fn-sidebar.affix').width($('.fn-sidebar.affix').parents('.col-md-3').width());
     }
